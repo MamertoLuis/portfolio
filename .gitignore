@@ -1,0 +1,23 @@
+# Hugo build output
+/public/
+/resources/
+
+# Hugo build lock & local cache
+.hugo_build.lock
+.cache/
+
+# opencode artifacts
+.opencode/
+
+# Session notes
+notes/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node.js (if npm tooling is added later)
+node_modules/
