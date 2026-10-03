@@ -2,7 +2,9 @@
   <h1>{{ .Title }}</h1>
   {{ with .Content }}<div>{{ . }}</div>{{ end }}
   <ul class="post-list">
-    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ $pages := .Pages }}
+    {{ if .IsSection }}{{ $pages = .RegularPagesRecursive }}{{ end }}
+    {{ range $pages.ByPublishDate.Reverse }}
       <li>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         <div class="post-meta">{{ .PublishDate.Format "January 2, 2006" }}</div>

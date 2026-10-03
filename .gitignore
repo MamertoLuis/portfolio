@@ -9,6 +9,9 @@
 # opencode artifacts
 .opencode/
 
+# Local-only tooling (runs outside Cloudflare CI)
+scripts/
+
 # Session notes
 notes/
 
