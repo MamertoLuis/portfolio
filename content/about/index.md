@@ -1,12 +1,12 @@
 ---
 title: 'About Me'
-date: '2026-10-02'
+date: '2026-10-04'
 draft: false
-description: 'He was born in June 1970 in Cebu City, Cebu, Philippines, to the late Mariano Jesus C. Manguerra, a civil engineer and coal mining company owner, and Teresita E. Manguerra. He is the fourth of seven c'
+description: 'My name is Mamerto Luis Escano Manguerra. Born in June 1970 in Cebu City, Cebu, Philippines, I am the fourth of seven children of the late Mariano Jesus C. Manguerra, a civil engineer and coal mining '
 ---
 
-He was born in June 1970 in Cebu City, Cebu, Philippines, to the late Mariano Jesus C. Manguerra, a civil engineer and coal mining company owner, and Teresita E. Manguerra. He is the fourth of seven children.
+My name is Mamerto Luis Escano Manguerra. Born in June 1970 in Cebu City, Cebu, Philippines, I am the fourth of seven children of the late Mariano Jesus C. Manguerra, a civil engineer and coal mining company owner, and Teresita E. Manguerra.
 
-He completed his elementary education at the University of San Carlos (USC) and his secondary education at Don Bosco Technical Center. He earned a Bachelor’s degree in Economics from USC and a Bachelor of Laws from the University of Southern Philippines Foundation (USPF).
+I completed my elementary education at the University of San Carlos (USC) and my secondary schooling at the Don Bosco Technical Center. I then earned a Bachelor’s degree in Economics from USC, followed by a Bachelor of Laws from the University of Southern Philippines Foundation (USPF).
 
-Since 1996, he has been continuously involved in the management of the Upland Rural Bank of Dalaguete (Cebu), Inc., where he currently serves as President. The bank operates main branches in the municipalities of Oslob and Dalaguete, Cebu.
+Since 1996, I have been actively involved in the leadership and management of the Upland Rural Bank of Dalaguete (Cebu), Inc., where I currently serve as President. The bank operates main branches across the municipalities of Oslob and Dalaguete, Cebu.
