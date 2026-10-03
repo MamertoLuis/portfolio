@@ -1,6 +1,6 @@
 ---
 title: 'Project Overview'
-date: '2026-09-21'
+date: '2026-09-21T00:00:00+08:00'
 draft: false
 tags: ['ai', 'notebooks', 'project']
 description: 'A scratchpad for testing AI/LLM tooling in Jupyter notebooks.'

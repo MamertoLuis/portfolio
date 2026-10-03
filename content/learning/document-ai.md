@@ -1,6 +1,6 @@
 ---
 title: 'Document AI'
-date: '2026-09-21'
+date: '2026-09-21T00:00:00+08:00'
 draft: false
 tags: ['ai', 'document-ai', 'tech-stack']
 description: 'Experiments extracting structured data from documents.'

@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-date: '2026-10-04'
+date: '2026-10-04T00:00:00+08:00'
 draft: false
 description: 'My name is Mamerto Luis Escano Manguerra. Born in June 1970 in Cebu City, Cebu, Philippines, I am the fourth of seven children of the late Mariano Jesus C. Manguerra, a civil engineer and coal mining '
 ---

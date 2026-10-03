@@ -1,6 +1,6 @@
 ---
 title: 'Prompting Basics'
-date: '2026-09-21'
+date: '2026-09-21T00:00:00+08:00'
 draft: false
 tags: ['ai', 'prompting', 'foundations']
 description: 'Core prompting techniques for steering LLM output without fine-tuning. Follows on from the LLM fundamentals concepts (tokens, context window, temperature, sampling).'

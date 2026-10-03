@@ -1,6 +1,6 @@
 ---
 title: 'LLM Evaluation Basics'
-date: '2024-07-30'
+date: '2024-07-30T00:00:00+08:00'
 draft: false
 tags: ['ai', 'evaluation', 'learning']
 description: 'Understand fundamental concepts and techniques for evaluating Large Language Model (LLM) output quality.'

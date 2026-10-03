@@ -1,6 +1,6 @@
 ---
 title: 'Environments'
-date: '2026-09-21'
+date: '2026-09-21T00:00:00+08:00'
 draft: false
 tags: ['ai', 'conda', 'tech-stack']
 description: 'Conda environments on this machine (Anaconda distribution via miniconda3).'

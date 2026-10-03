@@ -1,6 +1,6 @@
 ---
 title: 'Local Models'
-date: '2026-09-21'
+date: '2026-09-21T00:00:00+08:00'
 draft: false
 tags: ['ai', 'ollama', 'local-models', 'tech-stack']
 description: 'Experiments with locally hosted models via Ollama.'

@@ -1,6 +1,6 @@
 ---
 title: 'AGENTS.md'
-date: '2026-09-21'
+date: '2026-09-21T00:00:00+08:00'
 draft: false
 tags: ['ai', 'notebooks', 'project']
 description: 'AGENTS.md is the instruction file that guides AI coding agents working in the project folder:'

@@ -1,6 +1,6 @@
 ---
 title: 'Project Skills'
-date: '2026-09-21'
+date: '2026-09-21T00:00:00+08:00'
 draft: false
 tags: ['ai', 'skills', 'project']
 description: 'Custom agent skills for this project, stored in .pi/skills/.'

@@ -1,6 +1,6 @@
 ---
 title: 'Stage 1'
-date: '2026-10-04'
+date: '2026-10-04T00:00:00+08:00'
 draft: false
 description: 'A loan-application form processing pipeline. PDFs dropped into in/ are'
 ---
