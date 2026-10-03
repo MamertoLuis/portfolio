@@ -1,0 +1,15 @@
+<nav class="top_nav">
+  <ul>
+    {{ $current := . }}
+    {{ range .Site.Menus.main }}
+      {{ $entryURL := .URL | relURL }}
+      {{ $active := eq $current.RelPermalink $entryURL }}
+      {{ if and (not $active) (ne $entryURL "/") }}
+        {{ $active = strings.HasPrefix $current.RelPermalink $entryURL }}
+      {{ end }}
+      <li class="{{ if $active }}active{{ end }}">
+        <a href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>

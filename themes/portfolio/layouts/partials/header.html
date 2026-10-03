@@ -1,0 +1,6 @@
+<header>
+  <div id="logo">
+    <a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+    {{ with .Site.Params.tagline }}<div class="tagline">{{ . }}</div>{{ end }}
+  </div>
+</header>

@@ -1,0 +1,9 @@
+<footer class="footer">
+  <nav id="bottom_nav">
+    {{ range $i, $e := .Site.Menus.footer }}
+      {{ if $i }}&nbsp;|&nbsp;{{ end }}
+      <a href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+    {{ end }}
+  </nav>
+  <div id="copyright">&copy; {{ now.Year }} {{ .Site.Title }}</div>
+</footer>

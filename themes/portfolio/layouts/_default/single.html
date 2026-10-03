@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ if not .PublishDate.IsZero }}
+    <div class="post-meta">{{ .PublishDate.Format "January 2, 2006" }}</div>
+  {{ end }}
+  {{ .Content }}
+{{ end }}

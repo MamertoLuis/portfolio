@@ -1,0 +1,12 @@
+name = "portfolio"
+license = "MIT"
+licenselink = "https://github.com/anomalyco/portfolio/blob/main/LICENSE"
+description = "A minimalist, utilitarian theme inspired by NearlyFreeSpeech.NET"
+homepage = "https://example.org/"
+tags = ["minimal", "personal", "blog", "portfolio", "green"]
+features = ["blog", "responsive"]
+min_version = "0.154.0"
+
+[author]
+  name = "Portfolio Theme"
+  homepage = "https://example.org/"
