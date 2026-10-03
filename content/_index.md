@@ -1,5 +1,5 @@
 +++
-title = 'About'
+title = 'My Portfolio'
 description = 'A personal portfolio and blog.'
 +++
 

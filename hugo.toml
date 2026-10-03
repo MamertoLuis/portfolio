@@ -1,4 +1,4 @@
-baseURL = 'portfolio.marty-manguerra.workers.dev'
+baseURL = 'https://portfolio.marty-manguerra.workers.dev/'
 languageCode = 'en-us'
 title = 'My Portfolio'
 theme = 'portfolio'
