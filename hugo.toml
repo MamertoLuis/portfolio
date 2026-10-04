@@ -39,6 +39,11 @@ theme = 'portfolio'
     url = '/projects/'
     weight = 5
 
+  [[menu.main]]
+    name = 'Posts'
+    url = '/posts/'
+    weight = 6
+
   [[menu.sidebar]]
     name = 'About Me'
     url = '/about/'
@@ -59,6 +64,11 @@ theme = 'portfolio'
     url = '/projects/'
     weight = 4
 
+  [[menu.sidebar]]
+    name = 'Posts'
+    url = '/posts/'
+    weight = 5
+
   [[menu.footer]]
     name = 'About'
     url = '/about/'
@@ -78,6 +88,11 @@ theme = 'portfolio'
     name = 'Projects'
     url = '/projects/'
     weight = 4
+
+  [[menu.footer]]
+    name = 'Posts'
+    url = '/posts/'
+    weight = 5
 
 [caches]
   [caches.images]

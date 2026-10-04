@@ -14,7 +14,7 @@ Content is generated from a local Obsidian vault.
 ## Layout
 
 - `themes/portfolio/` — theme (layouts in `layouts/`, styles in `static/css/main.css`).
-- `content/` — site content (`_index.md`, `about/`, `learning/`, `courses/`, `projects/`).
+- `content/` — site content (`_index.md`, `about/`, `learning/`, `courses/`, `projects/`, `posts/`).
 - `hugo.toml` — site config, menus (`main` = top tabs, `sidebar`, `footer`).
 - `wrangler.jsonc` + `build.sh` — Cloudflare Pages deployment.
 - `scripts/sync_vault.py` — Obsidian→Hugo sync (gitignored, local-only).
@@ -29,7 +29,7 @@ and writes normalized Hugo content into `content/`:
   `/home/marty-manguerra/Documents/Obsidian Vault`).
 - Folder mapping: `About/` → `about/` (bio → `index.md`), `Learning/` →
   `learning/`, `Courses/` → `courses/`, `Projects/` → `projects/`
-  (subfolders preserved); `daily/` skipped.
+  (subfolders preserved); `Posts/` → `posts/` (blog).
 - Transform: adds Hugo frontmatter (`title`/`date`/`draft`/`tags`), resolves
   `[[wikilinks]]` to Hugo URLs (broken links become plain text), promotes the
   leading `# H1` to `title`.
